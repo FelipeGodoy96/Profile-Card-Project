@@ -29,6 +29,7 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 ### Links
 
 - Projeto: [https://github.com/FelipeGodoy96/Profile-Card-Project](https://github.com/FelipeGodoy96/Profile-Card-Project)
+- Site Online: [https://felipegodoy96.github.io/Profile-Card-Project/](https://felipegodoy96.github.io/Profile-Card-Project/)
 
 ## Meu processo
 
