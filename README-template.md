@@ -11,8 +11,8 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 - [Meu processo](#meu-processo)
   - [Construção](#construído-com)
   - [O que aprendi](#o-que-eu-aprendi)
-  - [Continuação...](#continuacao-desenvolvimento)
-  - [Useful resources](#useful-resources)
+  - [Continuação...](#continuacao-do-desenvolvimento)
+  - [Recursos úteis](#recursos-uteis)
 - [Autor](#autor)
 
 
@@ -41,7 +41,9 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 
 ### O que eu aprendi
 
-	Esse foi o meu primeiro desafio a desenvolver CSS com HTML sozinho, aprendi tanta coisa que se fosse descrever tudo essa página tomaria alguns dias meus. Porém, há alguns conceitos em destaque:
+	Esse foi o meu primeiro desafio a desenvolver CSS com HTML sozinho, aprendi tanta coisa que 
+se fosse descrever tudo essa página tomaria alguns dias meus.
+	Porém, há alguns conceitos em destaque:
  - comportamentos de flexbox;
  - melhora de semântica HTML;
  - positions (absolute, relative, etc).
@@ -49,9 +51,14 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 
 ### Continuação do desenvolvimento...
 
-	Ainda que o projeto aparente finalizado,  há alguns detalhes que gostaria de corrigir. O CSS ficou um pouco extenso, acredito que posso reduzi-lo atribuindo classes mais abrangentes a caixas-filho ou caixas-pai. 
-O site não ficou responsivo para mobile, pretendo adicionar media queries para resolver esse problema. 
-As bolhas não estão respeitando o limite do background azul que contém o cartão pessoal.
+	Ainda que o projeto aparente finalizado,  há alguns detalhes que gostaria de corrigir.
+	O CSS ficou um pouco extenso, acredito que posso reduzi-lo,
+ atribuindo classes mais abrangentes a caixas-filho ou caixas-pai.
+ 
+	O site não ficou responsivo para mobile, pretendo adicionar
+ media queries para resolver esse problema. 
+
+	As bolhas não estão respeitando o limite do background azul.
 
 ### Recursos úteis
 
