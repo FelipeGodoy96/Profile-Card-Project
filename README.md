@@ -29,7 +29,6 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 ### Links
 
 - Projeto: [https://github.com/FelipeGodoy96/Profile-Card-Project](https://github.com/FelipeGodoy96/Profile-Card-Project)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Meu processo
 
@@ -41,8 +40,7 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 
 ### O que eu aprendi
 
-	Esse foi o meu primeiro desafio a desenvolver CSS com HTML sozinho, aprendi tanta coisa que 
-se fosse descrever tudo essa página tomaria alguns dias meus.
+Esse foi o meu primeiro desafio a desenvolver CSS com HTML sozinho, aprendi tanta coisa que se fosse descrever tudo essa página tomaria alguns dias meus.
 	Porém, há alguns conceitos em destaque:
  - comportamentos de flexbox;
  - melhora de semântica HTML;
