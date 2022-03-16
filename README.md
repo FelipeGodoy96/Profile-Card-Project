@@ -2,24 +2,23 @@
 
 Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). 
 
-## Table of contents
+## Sumário
 
 - [Visão geral](#visao-geral)
   - [O desafio](#o-desafio)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construção](#construído-com)
+  - [O que aprendi](#o-que-eu-aprendi)
+  - [Continuação...](#continuacao-desenvolvimento)
   - [Useful resources](#useful-resources)
 - [Autor](#autor)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
 - Construir o projeto para ficar o mais próximo parecido do desafio proposto.
 
@@ -32,61 +31,39 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 - Projeto: [https://github.com/FelipeGodoy96/Profile-Card-Project](https://github.com/FelipeGodoy96/Profile-Card-Project)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## Meu processo
 
-### Built with
+### Construído com:
 
-- Semantic HTML5 markup
+- Semântica HTML5
 - CSS
 - Flexbox
 
-### What I learned
+### O que eu aprendi
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+	Esse foi o meu primeiro desafio a desenvolver CSS com HTML sozinho, aprendi tanta coisa que se fosse descrever tudo essa página tomaria alguns dias meus. Porém, há alguns conceitos em destaque:
+ - comportamentos de flexbox;
+ - melhora de semântica HTML;
+ - positions (absolute, relative, etc).
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+### Continuação do desenvolvimento...
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+	Ainda que o projeto aparente finalizado,  há alguns detalhes que gostaria de corrigir. O CSS ficou um pouco extenso, acredito que posso reduzi-lo atribuindo classes mais abrangentes a caixas-filho ou caixas-pai. 
+O site não ficou responsivo para mobile, pretendo adicionar media queries para resolver esse problema. 
+As bolhas não estão respeitando o limite do background azul que contém o cartão pessoal.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+### Recursos úteis
 
-### Continued development
+- [Guias de medida CSS](https://www.alura.com.br/artigos/guia-de-unidades-no-css?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0DmCStoqs0eDAsFyXKq7eLZEtRvLvyfX-EljFelZN5M3mlbzkbkY3xoCuT8QAvD_BwE) - Esse guia me ajudou a entender conceitos importantes de positions, o que influenciou diretamente na concretização do projeto. O aprendido aqui será levado comigo por todo meu caminho em CSS's futuros.
+- [Flexbox Froggy](https://flexboxfroggy.com) - Esse é um site incrível que me ajudou a entender as propriedades e comportamentos da Flexbox. Muito obrigado aos desenvolvedores por facilitar o entendimento da comunidade.
+- [Medidas CSS](https://ishadeed.com/article/min-max-css/) - Um artigo que me ajudará a desenvolver o site com responsividade mobile.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+## Autor
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Felipe Godoy](https://github.com/FelipeGodoy96)
+- Frontend Mentor - [@FelipeGodoy96](https://www.frontendmentor.io/profile/FelipeGodoy96)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
