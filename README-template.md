@@ -11,8 +11,8 @@ Essa é a resolução do [Desafio de Cartão Pessoal do Frontend Mentor](https:/
 - [Meu processo](#meu-processo)
   - [Construção](#construído-com)
   - [O que aprendi](#o-que-eu-aprendi)
-  - [Continuação...](#continuacao-do-desenvolvimento)
-  - [Recursos úteis](#recursos-uteis)
+  - [Continuação...](#continuação-do-desenvolvimento...)
+  - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
 
 
@@ -51,14 +51,10 @@ se fosse descrever tudo essa página tomaria alguns dias meus.
 
 ### Continuação do desenvolvimento...
 
-	Ainda que o projeto aparente finalizado,  há alguns detalhes que gostaria de corrigir.
-	O CSS ficou um pouco extenso, acredito que posso reduzi-lo,
- atribuindo classes mais abrangentes a caixas-filho ou caixas-pai.
- 
-	O site não ficou responsivo para mobile, pretendo adicionar
- media queries para resolver esse problema. 
-
-	As bolhas não estão respeitando o limite do background azul.
+Ainda que o projeto aparente finalizado,  há alguns detalhes que gostaria de corrigir.
+O CSS ficou um pouco extenso, acredito que posso reduzi-lo, atribuindo classes mais abrangentes a caixas-filho ou caixas-pai.
+O site não ficou responsivo para mobile, pretendo adicionar media queries para resolver esse problema. 
+As bolhas não estão respeitando o limite do background azul.
 
 ### Recursos úteis
 
@@ -71,6 +67,5 @@ se fosse descrever tudo essa página tomaria alguns dias meus.
 
 - GitHub - [Felipe Godoy](https://github.com/FelipeGodoy96)
 - Frontend Mentor - [@FelipeGodoy96](https://www.frontendmentor.io/profile/FelipeGodoy96)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
